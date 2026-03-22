@@ -345,7 +345,7 @@ A: Yes. Your resume is processed entirely in your browser and sent only to Googl
 
 ## 📊 Changelog
 
-### v8 (Current — Optimised Edition)
+### v7-v2 (Current — Optimised Edition)
 - ✅ API key moved to secure HTTP header (`x-goog-api-key`)
 - ✅ Response caching by content hash (40–70% fewer API calls)
 - ✅ Resume truncation at 3,000 chars, JD at 2,000 chars
@@ -356,7 +356,7 @@ A: Yes. Your resume is processed entirely in your browser and sent only to Googl
 - ✅ DRY helper functions: `extractGeminiText()`, `renderResult()`, `renderCached()`
 - ✅ ~41% shorter prompts — same quality, fewer tokens
 
-### v7
+### v7-v1
 - Added ATS Score animated ring
 - Added shared resume across tabs
 - Added drag & drop file upload
