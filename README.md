@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 AI Job Hunt Engine v8
+# 🚀 AI Job Hunt Engine v7
 
 ### *Hunt Smarter. Apply Faster.*
 
